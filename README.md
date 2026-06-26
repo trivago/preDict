@@ -1,5 +1,10 @@
 # [search|hub](https://www.searchhub.io) preDict (CE) Community Edition
 
+
+> [!CAUTION]
+> This repository has been archived as of June 2026.  
+> If you wish to update or extend this project, please create a fork.
+
 ## search|hub enables blazing fast language independent spell correction at scale
 
 Some basics about the spell correction problem
